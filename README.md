@@ -6,7 +6,7 @@ The hardware integrated accelerometer sensor to Unity2d c# (.NET 2.0), and I usi
 
 #Problem
 1. Bluetooth lose the packet: You have to checkout the BT module is fine, sometime bad `Antenna` is a big trouble.
-2. Always Lag: Undoubtedly.
+2. Always Lag: Undoubtedly. (!important: Modify ReadTimeout is very helpful!)
 3. NOT FOUND DEVICE: Your USB Port is broken. (QQ
 
 #Install Hardware
